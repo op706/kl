@@ -12,7 +12,7 @@ namespace kl.Controllers
         {
             return View();
         }
-        public ActionResult AAA()
+        public ActionResult AAArr()
         {
             return View();
         }
